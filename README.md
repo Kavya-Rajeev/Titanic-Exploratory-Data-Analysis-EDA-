@@ -1,7 +1,9 @@
 # Titanic-Exploratory-Data-Analysis-(EDA)
- ## Objective: Extract insights from Titanic dataset using visual and statistical exploration.
+## Objective: 
+Extract insights from Titanic dataset using visual and statistical exploration.
  
- ## Tools: Python (Pandas, Matplotlib, Seaborn)
+## Tools: 
+Python (Pandas, Matplotlib, Seaborn)
 
 ## Summary of findings:
 - Gender: Females had significantly higher survival rates compared to males, reflecting the "women and children first" policy.
