@@ -3,7 +3,7 @@
 Extract insights from Titanic dataset using visual and statistical exploration.
  
 ## Tools: 
-Python (Pandas, Matplotlib, Seaborn)
+Jupyter Notebook- Python (Pandas, Matplotlib, Seaborn)
 
 ## Summary of findings:
 - Gender: Females had significantly higher survival rates compared to males, reflecting the "women and children first" policy.
